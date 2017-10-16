@@ -1,3 +1,7 @@
+//Saúl Enrique Labra Cruz A01020725
+//Grafos - Snap
+//15/10/2017
+
 #include "stdafx.h"
 #include "disjointset.h"
 
